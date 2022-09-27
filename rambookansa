@@ -1,0 +1,315 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>rambo okansa</title>
+
+				<link>https://feeds.acast.com/public/shows/rambo-okansa</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/6332f607ee550200123c0be8" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright/>
+
+				<itunes:keywords/>
+
+				<itunes:author/>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[bazı kaynaklara göre ölmeden önce yapmak istediğimiz şeyleri mutlaka yapmamız gerektiğini aksi takdirde yaşarken içimizde kalacağına dair bilgi bulunmaktadır.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[bazı kaynaklara göre ölmeden önce yapmak istediğimiz şeyleri mutlaka yapmamız gerektiğini aksi takdirde yaşarken içimizde kalacağına dair bilgi bulunmaktadır.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name/>
+					<itunes:email>info+6332f607ee550200123c0be8@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+				<acast:showId>6332f607ee550200123c0be8</acast:showId>
+
+				<acast:showUrl>rambo-okansa</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[FPuZa4f4rnVEvmO6cH/oXQ==]]></acast:signature>
+				<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2yQBnZShacEg8Cwb5nc/vm8WuNkwlOmIUx4/qCjOX/IP0aiElEts5VxHdWyk2o095WqeYY1kAXPA3Ce0XSc9YMFNSxADiclkLBIwqOmzqlt7caREVfjT4EnK5vrFe/ATjjpKGkYE7a5yA394+cpAfz3x+vYxXkPERKDqLYs0f8HBxqSWC2ltPOMxKhr+l3wmKJluZXV+9KgvlSTXICL/dJByqCD41GLFfbKDBwmzSS35Q4ppOT/v4C4DNOqAKPzjC0kTlMjxvQMCg+1Tr9PMoMAfV3VYk7h/kwgdiIl0VFceznny10cXkQUOoUzLg2PuLKgZ571NEWMgYoYYNGIcOXa12WJQc/i1SL0T774VlL7BjKwf2jC6YoJzum2eBEaiRTaU9OEDSqSfuJexfkEcfAKIpXFeRM0Zoicpf+0Ldi/Zo3Hngha6iDfKIuPRWJpd1QDwl8q0GebSv4aYtj0VlGhM=]]></acast:settings>
+
+			<itunes:image href="https://open-static.acast.com/global/images/default-cover.png"/>
+				<image>
+					<url>https://open-static.acast.com/global/images/default-cover.png</url>
+					<link>https://feeds.acast.com/public/shows/rambo-okansa</link>
+					<title>rambo okansa</title>
+</image>
+
+				<item>
+						<title>random 132324</title>
+
+						<itunes:title>random 132324</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:17:47 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f7fecce1250013c50a34/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f7fecce1250013c50a34</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://sites.google.com/view/betturkey/ana-sayfa</link>
+
+						<acast:episodeId>6332f7fecce1250013c50a34</acast:episodeId>
+
+						<acast:episodeUrl>random-132324</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIsvc6BGar7NzxkRHeEAUKZgd9y2oNBQF1e6rx99bl/CBbFlWdVpr1HTssG6ZnrKsrMkJ9WLdATe/Mtgmi6o/gHaa]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1345</title>
+
+						<itunes:title>random 1345</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:16:21 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f7a8cce1250013c509c7/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f7a8cce1250013c509c7</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://headachesduringearlypregnancy.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f7a8cce1250013c509c7</acast:episodeId>
+
+						<acast:episodeUrl>random-1345</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIsucGSnAMEZRaZyw3PHNNHZsNcnPG3kL1SLONNcvc36Ha75A1LRNZpdNOhKLKSrUOUAPiP+ub+RCe8cEtfNI4fqz]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1459</title>
+
+						<itunes:title>random 1459</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:15:43 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f78140179e001274be3e/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f78140179e001274be3e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://listofandroidphones0.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f78140179e001274be3e</acast:episodeId>
+
+						<acast:episodeUrl>random-1459</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIssWCvSSfhvAjEqRt/E5XjiTFzZQOVixynkvbTlsldtfizDXO9kPaAp777G+rC8Kbg9NUZt2AAQGCQg/P3CrJOfN]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1458</title>
+
+						<itunes:title>random 1458</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:14:28 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f737363b4400127016a0/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f737363b4400127016a0</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://premium209.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f737363b4400127016a0</acast:episodeId>
+
+						<acast:episodeUrl>random-1458</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIsvfJF69dY4iqARvHfQawnW2301DCMooCGtADBibIxgs2HqjVNI9T+/lMAf/QigIUCldPwcz+PS2VHb66LmdIrqZ]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1457</title>
+
+						<itunes:title>random 1457</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:13:31 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f6fd470c7900137d5353/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f6fd470c7900137d5353</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://eniyigenelblog.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f6fd470c7900137d5353</acast:episodeId>
+
+						<acast:episodeUrl>random-1457</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIss5W5XInE76pKYjcrgy/4JkPQ0yz2OI34Fbg+w/Lsm3hZZQwuaNq1Uy9GPcqTfENnmwPRKEjOYRKSXfALxpeX50]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1456</title>
+
+						<itunes:title>random 1456</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:13:08 GMT</pubDate>
+
+						<itunes:duration>3:32</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f6e728101900120d7a0e/media.mp3" length="6720369" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f6e728101900120d7a0e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://ramazankaratr.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f6e728101900120d7a0e</acast:episodeId>
+
+						<acast:episodeUrl>random-1456</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIstlSXUymxlS6EIyfAz66JCtuvq7fc8DxYgF+nqPLldwvvDjX2vwOM6VPbIvVxyjPKaZAMw6xJYPUIZv3cYAr9C5]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1455</title>
+
+						<itunes:title>random 1455</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:12:35 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f6c6df0bb6001390068e/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f6c6df0bb6001390068e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://ustafare.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f6c6df0bb6001390068e</acast:episodeId>
+
+						<acast:episodeUrl>random-1455</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIsstrKjehffDVxA3XdtA8JFoyuv46YGxCDzxigwRt4GgAvP2vqMbnRP+XIpH77Ik8Pxm2JkhC+1fjbI5jhtUTSHp]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1454</title>
+
+						<itunes:title>random 1454</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:12:01 GMT</pubDate>
+
+						<itunes:duration>0:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f693ec027e0014b167b3/media.mp3" length="596087" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f693ec027e0014b167b3</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://yazilarnet.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f693ec027e0014b167b3</acast:episodeId>
+
+						<acast:episodeUrl>random-1454</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIsuM/MClJK5lOuGnHoZQJXsUbH5yY6PAWgM1R5rQoeeB+q3jNcNTkSZ6trZd+ELDUUpbMGvNv6hIJ61IzpvsgNvn]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>random 1453</title>
+
+						<itunes:title>random 1453</itunes:title>
+
+						<pubDate>Tue, 27 Sep 2022 13:10:55 GMT</pubDate>
+
+						<itunes:duration>3:32</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/6332f607ee550200123c0be8/e/6332f662470c7900137d5241/media.mp3" length="6720369" type="audio/mpeg"/>
+					<guid isPermaLink="false">6332f662470c7900137d5241</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://yonca2005.blogspot.com/2022/09/betturkey-guncel-giris-adresi.html</link>
+
+						<acast:episodeId>6332f662470c7900137d5241</acast:episodeId>
+
+						<acast:episodeUrl>random-1453</acast:episodeUrl>
+
+						<acast:settings><![CDATA[5OoN+G20uJJO1pBcu6H2ydB8/MlbU1Dmf7zBx3yWySh3/wzUIpvx0Wu878Rw70O6Xrf5Bf6YWpq8qFBn31HVXJzl14BjFvnQ9ty1MT+cMC3OaInK9IWPIYbmdmn4ffQqWGeHc2OV9ttZgB1kMcUq5J2nAfOE+C+R2N+iW//RiLU6P356IX8BHdMEB+9TTXA/XF/NmlMFc02HYPLyawM6KLOzLDaOhP+LAM3c7BAZQaUhpNw4eIWDWL62t1JKY3QDgDAZVj5oDVGR/spV8hzrFZ8DnjlEUxQGtxnbBoHgjDC3A9rebZdTxMVHj8Fn1dsND+WYROPnzWhwIBse8r19UX8J9ja0D7TBrGG1CmrUdM5GbhjE8xuWSVV2kBLxgOz6948UoLYPd45HfGcXa6qn5L8PGpPKz2TBeaBcCTOPcev1BV0sUJsrfCks2RSK0g4wCdvNDgy052Xy3hWQoRe01T1rCeVKBaF0GTDlXKPsIsvLGy6/gy6r0NvX8EsjzxtdTke5NtiWJKc9BRw9FanLETDM/y2dCXZUxZ3qBYdpr37/Nnza4mZ1gc+LiOHFHOTq]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<description><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="Arts"/>
+			<itunes:category text="Music"/>
+</channel>
+
+</rss>
